@@ -5,7 +5,7 @@ The project is based on implementation of AODV, DSR and DSDV protcols along with
 The goal of the project is to find the correct combination of routing protocol and TCP variant.
 
 
-|                Getting Started        |
+|              Getting Started        |
 
 These steps will help you to run the project on your local machine for testing purposes. The project is tested on Ubuntu 16.04 LTS and MAC operating system.
 
