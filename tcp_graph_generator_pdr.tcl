@@ -2,10 +2,7 @@
  # Copyright (C) 2016
  #
  # This file is part of Comparison of Routing Protocols using Tcp variants project
- # written by Amarjit Singh<amarjitdhillon@sce.carleton.ca>, Ranjit Singh Saini<ranjitsaini@cmail.carleton.ca>
- #
- # It can not be copied and/or distributed without the express
- # permission of respective authors
+
  #*******************************************************/
 set list_of_protocol {Reno Newreno Sack1 Vegas Fack Linux}
 set directory tcp
