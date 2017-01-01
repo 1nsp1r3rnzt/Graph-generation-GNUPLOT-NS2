@@ -1,20 +1,17 @@
+Performance Analysis of TCP Variants & Routing Protocols Using NS2 Simulations              
 
-+---------------------------------------+
-| Performance Analysis of TCP Variants &
- Routing Protocols Using NS2 Simulations              
-+---------------------------------------+
-
+Aim::
 The project is based on implementation of AODV, DSR and DSDV protcols along with tcp agents such as Reno, New Reno, Fack, Sack1 and linux.
 The goal of the project is to find the correct combination of routing protocol and TCP variant.
 
-+---------------------------------------+
+
 |                Getting Started        |
-+---------------------------------------+
+
 These steps will help you to run the project on your local machine for testing purposes. The project is tested on Ubuntu 16.04 LTS and MAC operating system.
 
-+---------------------------------------+
+
 |                Prerequisites          |
-+---------------------------------------+
+
 For Ubuntu OS 
 >>>  NS 2.35
 >>>  GnuPlot build with X-11 or qt5
@@ -28,9 +25,9 @@ For Ubuntu OS
 >>> Perl for running file for additional parameters graph file (optional)
 
 
-+---------------------------------------+
+
 |                Installing             |
-+---------------------------------------+
+
 You need to install all the required pre-requisities and set their environment path respectively. then
 
 1. First of all goto project folder in terminal by CD project command
@@ -50,32 +47,32 @@ You need to install all the required pre-requisities and set their environment p
 
 
 
-+---------------------------------------+
+
 |                Built With             |
-+---------------------------------------+
+
 Network Simulator 2 - The network simulator used
 NAM - Network animator for viewing the simulation animation
 GnuPlot - The open source graph plotting framework
 TCL - scripting language for network simulation
 AWK - Scripting language for manipulating and analyzing data
 
-+---------------------------------------+
+
 |                Authors                |
-+---------------------------------------+
+
 Amarjit Dhillon
 Ranjit Singh Saini 
 
 
-+---------------------------------------+
+
 |                Future Work            |
-+---------------------------------------+
+
 Packet Drop ratio, throughput and other parameters can be calculated for the generated trace file
 
 
 
-+---------------------------------------+
+
 |		     Acknowledgments            |
-+---------------------------------------+
+
 We would like to thank people on stackoverflow.com who guided us in solving some intial problems like correct format of trace file and solutions to perl conversion of graph file which can be used for additional parameters like throughput.
 
 Lastly, we would like to thanks our professor to guide us at every step.
